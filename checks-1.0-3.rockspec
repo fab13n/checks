@@ -21,7 +21,7 @@ description = {
                 https://github.com/SierraWireless/luasched
 
    ]],
-   homepage = "https://github.com/SierraWireless/luasched",
+   homepage = "https://github.com/fab13n/checks",
    license = "MIT public license"
 }
 
