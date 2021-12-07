@@ -1,6 +1,6 @@
 URL=https://raw.github.com/SierraWireless/luasched/master/
 VERSION=1.0
-REVISION=3
+REVISION=4
 
 .PHONY: install rock fetch clean
 
